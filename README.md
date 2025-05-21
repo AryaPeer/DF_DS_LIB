@@ -15,7 +15,7 @@ A modern, lightweight C++ library that brings Pandas-style DataFrame capabilitie
 
 ## Dependencies
 
-* C++11 or later
+* C++17 or later
 * Standard Template Library (STL)
 
 ## Installation
